@@ -1,0 +1,43 @@
+body {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a0qRz_2VaczIGDG9uDlr4UBZK0KG_uzl9A&usqp=CAU");
+    background-size: cover;
+    justify-content: center;
+    color: white;
+
+}
+
+.container {
+    justify-content: center;
+    
+    width: 50rem;
+    margin: 6rem;
+    height: 30rem;
+    padding-top: 20px;
+}
+
+button {
+    color: white;
+    display: grid;
+    width: 15rem;
+    height: 3rem;
+    margin-left: 17rem;
+    border-radius: 50px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.inc-btn {
+    background-color: darkred;
+}
+
+.sav-btn {
+    background-color: green;
+}
+
+.name {
+    margin-top: 14rem;
+    color: blue;
+}
